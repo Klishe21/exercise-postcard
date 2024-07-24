@@ -12,6 +12,7 @@ body {
 }
 .postcard-header {
 	display: flex;
+	padding: 5px 5px 0 5px;
 }
 .postcard-header img {
 	width: 50px;
@@ -42,4 +43,6 @@ input {
 button {
 	background-color: lightgray;
 	padding: 5px;
+	border: none;
+	cursor: pointer;
 }
